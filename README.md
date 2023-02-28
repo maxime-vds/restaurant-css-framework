@@ -14,11 +14,11 @@ Contact.
 
 
 # Technologies used 
--HTML
--Boostrap 
+- HTML
+- Boostrap 
 
 # Features 
--Responsive design : the website is optimized for viewing on small, medium and large screens. 
+- Responsive design : the website is optimized for viewing on small, medium and large screens. 
 
 
 # Tech 
