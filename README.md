@@ -3,7 +3,7 @@ Is a fuctive website for learning so nothing exist (the adress, the menu, ...)
 
 The link of my project : https://maxime-vds.github.io/restaurant-css-framework/index.html
 
-#The Website 
+# The Website 
 
 Italia Lovers World restaurant is a project with 5 sections :
 Home,
@@ -13,14 +13,14 @@ Picture,
 Contact. 
 
 
-#Technologies used 
+# Technologies used 
 -HTML
 -Boostrap 
 
-#Features 
+# Features 
 -Responsive design : the website is optimized for viewing on small, medium and large screens. 
 
 
-#Tech 
+# Tech 
 - I use google Image for this webpage 
 
