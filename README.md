@@ -1,5 +1,26 @@
 # Restaurant Web Page 
+Is a fuctive website for learning so nothing exist (the adress, the menu, ...)
 
-Italia Lovers World restaurant is a project for learning, with 4 sections : home, menu, restaurants, picture and contact. Built with Bootstrap
+The link of my project : https://maxime-vds.github.io/restaurant-css-framework/index.html
 
-The link : https://maxime-vds.github.io/restaurant-css-framework/index.html 
+#The Website 
+
+Italia Lovers World restaurant is a project with 5 sections :
+Home,
+Menu,
+Restaurants,
+Picture, 
+Contact. 
+
+
+#Technologies used 
+-HTML
+-Boostrap 
+
+#Features 
+-Responsive design : the website is optimized for viewing on small, medium and large screens. 
+
+
+#Tech 
+- I use google Image for this webpage 
+
